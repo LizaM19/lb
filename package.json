@@ -1,0 +1,32 @@
+{
+  "name": "my_app",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "formidable": "^2.1.1",
+    "jsonfile": "^6.1.0",
+    "next": "13.2.4",
+    "node_module": "^0.0.0",
+    "node-fetch": "^3.3.1",
+    "react": "18.2.0",
+    "react-awesome-slider": "^4.1.0",
+    "react-dom": "18.2.0",
+    "react-router": "^6.9.0",
+    "react-router-dom": "^6.9.0",
+    "react-youtube": "^10.1.0"
+  },
+  "browser": {
+    "fs": false,
+    "os": false,
+    "path": false
+  }
+}
